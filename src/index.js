@@ -1,3 +1,3 @@
 import './styles.css';
-import './js/timer.js';
+import './js/test-timer.js';
 
